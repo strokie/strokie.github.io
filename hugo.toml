@@ -1,4 +1,0 @@
-baseURL = 'https://strokie.github.io/'
-languageCode = 'cs-CZ'
-title = 'Petr Liška'
-theme = 'vncnt-hugo'
